@@ -1,0 +1,2 @@
+# sound-design-workshop
+Proposed, designed, and conducted a sound design workshop with 24 5th and 6th graders at R F Kennedy Elementary. This is the code I wrote to teach Granular Sampling. Every player (p1, p2, etc.) has a separate code file which loads a sample and defines 5 parameters to modify the sample with. The idea was to recreate "Jellyfish Jam" from Spongebob and encourage students to design cool unique sounds from familiar sounds.
