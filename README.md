@@ -25,6 +25,5 @@ Proposed, designed, and conducted a sound design workshop with 24 5th and 6th gr
 * "instructor_sheet": was the sheet provided to my peers to help them aid the students.
 
 # Inspiration
-All the work we do at [Santa Clara Laptop Orchestra (SCLOrk)] inspired the creation of this workshop. A year ago I knew nothing about music, let alone sound design. Now, I can conduct a workshop to introduce young minds to the magic I had and continue to have the privelege to experience for over a year.
-[Santa Clara Laptop Orchestra (SCLOrk)]: https://www.youtube.com/watch?v=UorZXvhU6uI
+All the work we do at [Santa Clara Laptop Orchestra (SCLOrk)](https://www.youtube.com/watch?v=UorZXvhU6uI) inspired the creation of this workshop. A year ago I knew nothing about music, let alone sound design. Now, I can conduct a workshop to introduce young minds to the magic I had and continue to have the privelege to experience for over a year.
 
